@@ -9,6 +9,7 @@ module.exports = {
     title:`Crisnaldo Carvalho`,
     description:`My web portfolio`,
     author:`Crisnaldo Carvalho`,
+    siteUrl:`https://crisnaldo-carvalho.netlify.com`,
     presentation: {
       hi: 'Olá, Eu sou o',
       name: 'Crisnaldo Carvalho',
@@ -86,5 +87,6 @@ module.exports = {
       },
     },
     'gatsby-transformer-remark',
+    `gatsby-plugin-advanced-sitemap`,
   ]
 }

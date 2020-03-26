@@ -7,7 +7,7 @@ import SEO from '../components/seo';
 
 export default ({ data }) =>
 <>
-    <SEO title=" " />
+    <SEO title="Portfolio" />
     <Container>
       <Header/>
       <About/>
