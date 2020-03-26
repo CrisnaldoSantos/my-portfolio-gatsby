@@ -6,6 +6,9 @@
 
 module.exports = {
   siteMetadata: {
+    title:`Crisnaldo Carvalho`,
+    description:`My web portfolio`,
+    author:`Crisnaldo Carvalho`,
     presentation: {
       hi: 'Olá, Eu sou o',
       name: 'Crisnaldo Carvalho',
@@ -77,8 +80,11 @@ module.exports = {
         name: `Crisnaldo Carvalho`,
         short_name: `Crisnaldo Carvalho`,
         start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
       },
     },
-    'gatsby-transformer-remark'
+    'gatsby-transformer-remark',
   ]
 }
