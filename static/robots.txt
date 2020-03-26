@@ -1,6 +1,7 @@
 # Group 1
-User-agent: Googlebot
-Disallow: /nogooglebot/
+User-agent:*
+Disallow: /
+allow: /index.html
 
 # Group 2
 User-agent: *
