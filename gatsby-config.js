@@ -33,9 +33,9 @@ module.exports = {
         date: '01/2020 - atual',
         company: 'Instituto de Pesquisas em Tecnologia e Inovação - IPTI',
         role: 'Desenvolvedor',
-        description: `<p>Atuo na criação de módulos para software TAG desenvolvendo
-        novas features e correções de bugs.</p>
-        <p><strong>Tecnologias: </strong>HTML, CSS, JavaScript, NodeJS, ReactJS, MongoDB.</p>`
+        description: `Atuo na criação de módulos para software TAG desenvolvendo
+        novas features e correções de bugs.<br>
+        <strong>Tecnologias: </strong>HTML, CSS, JavaScript, NodeJS, ReactJS, MongoDB.`
       },
       {
         date: '05/2019 - 12/2019',
