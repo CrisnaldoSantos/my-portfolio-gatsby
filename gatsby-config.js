@@ -71,6 +71,14 @@ module.exports = {
         path: `${__dirname}/src/`,
       },
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Crisnaldo Carvalho`,
+        short_name: `Crisnaldo Carvalho`,
+        start_url: `/`,
+      },
+    },
     'gatsby-transformer-remark'
   ]
 }

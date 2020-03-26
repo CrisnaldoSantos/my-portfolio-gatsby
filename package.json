@@ -20,6 +20,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/react-fontawesome": "^0.1.9",
     "gatsby": "^2.20.6",
+    "gatsby-plugin-manifest": "^2.3.2",
     "gatsby-plugin-sass": "^2.1.28",
     "gatsby-source-filesystem": "^2.1.48",
     "gatsby-transformer-remark": "^2.6.52",
