@@ -6,7 +6,7 @@ import Menu from "../components/menu";
 import Github from './social-icons/github';
 import Instagram from './social-icons/instagram'
 import Linkedin from './social-icons/linkedin'
-import Twitter from './social-icons/twitter'
+import Whatsapp from './social-icons/whatsapp'
 import Youtube from './social-icons/youtube'
 
 const Header = () => {
@@ -43,7 +43,7 @@ const Header = () => {
                                 {socialMedia.name === 'instagram' && <Instagram/>}
                                 {socialMedia.name === 'youtube' && <Youtube/>}
                                 {socialMedia.name === 'linkedin' && <Linkedin/>}
-                                {socialMedia.name === 'twitter' && <Twitter/>}
+                                {socialMedia.name === 'whatsapp' && <Whatsapp/>}
                             </a>
                         ))
                     }
