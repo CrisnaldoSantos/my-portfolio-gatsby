@@ -41,8 +41,8 @@ module.exports = {
         date: '05/2019 - 12/2019',
         company: 'Instituto de Pesquisas em Tecnologia e Inovação - IPTI',
         role: 'Estagiário em desenvolvimento',
-        description: `<p>Desenvolvimento de um módulo do software TAG, para gestão do Conselho Municipal da Criança e do Adolescente. </p>
-        <p><strong>Tecnologias: </strong>HTML, CSS, JavaScript, NodeJS, ReactJS, MongoDB.</p>`
+        description: `Desenvolvimento de um módulo do software TAG, para gestão do Conselho Municipal da Criança e do Adolescente.
+        <br><strong>Tecnologias: </strong>HTML, CSS, JavaScript, NodeJS, ReactJS, MongoDB.`
       },
     ],
     footerText: 'Fábrica de Código',
