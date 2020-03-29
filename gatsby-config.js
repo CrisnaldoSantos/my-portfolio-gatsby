@@ -9,7 +9,7 @@ module.exports = {
     title:`Crisnaldo Carvalho`,
     description:`My web portfolio`,
     author:`Crisnaldo Carvalho`,
-    siteUrl:`https://crisnaldo-carvalho.netlify.com`,
+    siteUrl:`https://crisnaldocarvalho.com.br`,
     presentation: {
       hi: 'Olá, Eu sou o',
       name: 'Crisnaldo Carvalho',
@@ -47,6 +47,29 @@ module.exports = {
         role: 'Estagiário em desenvolvimento',
         description: `Desenvolvimento de um módulo do software TAG, para gestão do Conselho Municipal da Criança e do Adolescente.
         <br><strong>Tecnologias: </strong>HTML, CSS, JavaScript, NodeJS, ReactJS, MongoDB.`
+      },
+    ],
+    projects:[
+      {
+        title:`Kinema App`,
+        description:`Front-end do software Kinema, produzido para estudo durante curso na universidade. O software tem por objetivo registrar desejos de filmes para assistir. Interface construída em cima do CoreUI template. Aplicação disponível para acesso na url: <a target="_blank "href="https://kinema-app.herokuapp.com/">https://kinema-app.herokuapp.com</a>`,
+        tecnologies:`ReactJS.`,
+        repository:`https://github.com/CrisnaldoSantos/kinema-web`,
+        produtionLink:`https://kinema-app.herokuapp.com/`,
+      },
+      {
+        title:`Kinema Api`,
+        description:`Back-end do software Kinema, produzido para estudo durante curso na universidade. O software tem por objetivo registrar desejos de filmes para assistir, marcar como assistido e manter um feedback. O back-end em AdonisJS, banco postgres. Autenticação com JWT`,
+        tecnologies:`NodeJS, AdonisJS, PostgreSQL.`,
+        repository:`https://github.com/CrisnaldoSantos/kinema-api`,
+        produtionLink:`https://kinema-app.herokuapp.com/`,
+      },
+      {
+        title:`Dev Radar`,
+        description:`Aplicação construída durante a semana Omnistack 10 realiazada pela Rocketseat. Tem o objetivo de encontrar devs em um raio de 10km que trabalhem com determinadas tecnologias. Aplicação possui back-en, front-en para auto cadastro do dev, e mobile para encontrar os devs`,
+        tecnologies:`NodeJS, ReactJS, ReactNative, MongoDB.`,
+        repository:`https://github.com/CrisnaldoSantos/Omnistack-week10-rocketseat`,
+        produtionLink:`https://kinema-app.herokuapp.com/`,
       },
     ],
     footerText: 'Fábrica de Código',

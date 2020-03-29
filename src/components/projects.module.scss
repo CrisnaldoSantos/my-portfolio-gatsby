@@ -1,0 +1,20 @@
+
+
+.projectList{
+    @apply grid grid-cols-1 gap-2;
+}
+
+@screen md{
+
+    .projectList{
+        @apply grid grid-cols-2 gap-2;
+    }
+
+   
+}
+
+@screen lg{
+    .projectList{
+        @apply grid grid-cols-3 gap-2;
+    }
+}

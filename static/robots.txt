@@ -7,4 +7,4 @@ allow: /index.html
 User-agent: *
 Allow: /
 
-Sitemap: https://crisnaldo-carvalho.netlify.com/sitemap.xml
+Sitemap: https://crisnaldocarvalho.com.br/sitemap.xml
