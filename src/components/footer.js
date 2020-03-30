@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default ()=>
-    <footer className="flex flex-wrap justify-center bg-black text-white my-2">
+    <footer className="flex flex-wrap justify-center bg-black text-white">
         <div className="">
             <h3>Crisnaldo Carvalho Santos </h3>
         </div>
