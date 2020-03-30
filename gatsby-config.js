@@ -66,7 +66,7 @@ module.exports = {
       },
       {
         title:`Dev Radar`,
-        description:`Aplicação construída durante a semana Omnistack 10 realiazada pela Rocketseat. Tem o objetivo de encontrar devs em um raio de 10km que trabalhem com determinadas tecnologias. Aplicação possui back-en, front-en para auto cadastro do dev, e mobile para encontrar os devs`,
+        description:`Aplicação construída durante a semana Omnistack 10 realiazada pela Rocketseat. Tem o objetivo de encontrar devs em um raio de 10km que trabalhem com determinadas tecnologias. Aplicação possui back-end, front-end para auto cadastro do dev, e mobile para encontrar os devs`,
         tecnologies:`NodeJS, ReactJS, ReactNative, MongoDB.`,
         repository:`https://github.com/CrisnaldoSantos/Omnistack-week10-rocketseat`,
         produtionLink:`https://kinema-app.herokuapp.com/`,

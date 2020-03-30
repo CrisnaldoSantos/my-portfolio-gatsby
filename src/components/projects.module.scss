@@ -1,20 +1,4 @@
 
-
-.projectList{
-    @apply grid grid-cols-1 gap-2;
-}
-
-@screen md{
-
-    .projectList{
-        @apply grid grid-cols-2 gap-2;
-    }
-
-   
-}
-
-@screen lg{
-    .projectList{
-        @apply grid grid-cols-3 gap-2;
-    }
+.project{
+    @apply flex-1 items-start justify-end w-full shadow mx-2 my-2  bg-white rounded-lg;
 }

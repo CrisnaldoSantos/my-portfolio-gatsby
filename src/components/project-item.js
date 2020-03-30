@@ -1,17 +1,17 @@
 import React from 'react'
 
 import {FaGithub} from 'react-icons/fa';
-
+//<div className="text-center rounded-lg bg-white border-1 border-white-800 ">
 
 export default (props) =>
     <div className={props.className}>
-        <div className="text-center rounded-lg bg-white border-1 border-white-800 ">
-            <h3 className="text-xl font-bold py-2 text-center">{props.title}</h3>
-            <p className="text-center mx-2 py-3 h-40" dangerouslySetInnerHTML={{ __html: props.description }}></p>
-            <p className="py-5 " ><strong>Tecnologias: </strong>{props.tecnologies}</p>
-            <div className="mb-2 mx-3 flex flex-wrap justify-center">
-                <a href={props.repository} target="_blank" rel="noopener noreferrer" className="mx-2">
-                    <FaGithub size='24'/>
+        <div>
+            <h3 className="text-xl text-center font-bold py-2">{props.title}</h3>
+            <p className="mx-2 py-3" dangerouslySetInnerHTML={{ __html: props.description }}></p>
+            <p className="ml-2 h-60" ><strong>Tecnologias: </strong>{props.tecnologies}</p>
+            <div className="flex justify-center py-2">
+                <a href={props.repository} target="_blank" rel="noopener noreferrer" className="bottom-30">
+                    <FaGithub size='30'/>
                 </a>
             </div>
         </div>
