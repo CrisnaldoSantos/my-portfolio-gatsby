@@ -26,8 +26,8 @@ module.exports = {
       ]
     },
     aboutMe:{
-      title:'Desenvolvedor com 03 anos de experiência',
-      description:`Desenvolvedor web full stack com 3 anos de experiência com NodeJS e ReactJS.
+      title:'Desenvolvedor Full Stack',
+      description:`Desenvolvedor web full stack com experiência com NodeJS e ReactJS.
       Tenho experiência em todos os aspectos de desenvolvimento de software, incluindo análise de requisitos, design, desenvolvimento, testes, suporte e produção.
       Possuo bom relacionamento interpessoal, capacidade de liderança e gosto de compartilhar conhecimento com meus colegas de trabalho.`,
       photoUrl:'https://avatars3.githubusercontent.com/u/45441190?s=400&u=41ad579bcaaf3c42cb04d9263cd123427866b6f7&v=4',
@@ -50,6 +50,20 @@ module.exports = {
       },
     ],
     projects:[
+      {
+        title:`Monitoramento Covid 19`,
+        description:`Front-end desenvolvido com React e NextJS, apresentando dados globais e por países do covid 19, a aplicação também apresenta as recomendações do ministério da saúse. A aplicação foi hospedada no Heroku e pode ser acessada pela url : <a target="_blank "href="https://monitoramento-covid19.herokuapp.com/">https://monitoramento-covid19.herokuapp.com/</a>`,
+        tecnologies:`NextJS.`,
+        repository:`https://github.com/CrisnaldoSantos/monitoramento-covid-19`,
+        produtionLink:``,
+      },
+      {
+        title:`Be the Hero`,
+        description:`Aplicação Full Stack, com front, back e mobile desenvolvida na semana Omnistack 11 realizada pela Rocketseat. A aplicação objetiva ajudar ONGs a encontrar "hérois" que colaborem com os casos cadastrados pela ONG.`,
+        tecnologies:`NodeJS, ReactJS, React Native.`,
+        repository:`https://github.com/CrisnaldoSantos/Omnistack-week11-rocketseat`,
+        produtionLink:``,
+      },
       {
         title:`Kinema App`,
         description:`Front-end do software Kinema, produzido para estudo durante curso na universidade. O software tem por objetivo registrar desejos de filmes para assistir. Interface construída em cima do CoreUI template. Aplicação disponível para acesso na url: <a target="_blank "href="https://kinema-app.herokuapp.com/">https://kinema-app.herokuapp.com</a>`,
