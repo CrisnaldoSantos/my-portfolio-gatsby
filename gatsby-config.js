@@ -59,7 +59,7 @@ module.exports = {
       },
       {
         title:`Be the Hero`,
-        description:`Aplicação Full Stack, com front, back e mobile desenvolvida na semana Omnistack 11 realizada pela Rocketseat. A aplicação objetiva ajudar ONGs a encontrar "hérois" que colaborem com os casos cadastrados pela ONG. Na aplicação web, ocorre o registro da ONG e a mesma publica os seus casos. NA versão mobile, os casos de todas as ONGs jão listados ao público e o usuário pode entrar em contato com a ONG em questão.`,
+        description:`Aplicação Full Stack, com front, back e mobile desenvolvida na semana Omnistack 11 realizada pela Rocketseat. A aplicação objetiva ajudar ONGs a encontrar "hérois" que colaborem com os casos cadastrados pela ONG. Na aplicação web, ocorre o registro da ONG e a mesma publica os seus casos. Na versão mobile, os casos de todas as ONGs jão listados ao público e o usuário pode entrar em contato com a ONG em questão.`,
         tecnologies:`NodeJS, ReactJS, React Native.`,
         repository:`https://github.com/CrisnaldoSantos/Omnistack-week11-rocketseat`,
         produtionLink:``,
