@@ -59,7 +59,7 @@ module.exports = {
       },
       {
         title:`Be the Hero`,
-        description:`Aplicação Full Stack, com front, back e mobile desenvolvida na semana Omnistack 11 realizada pela Rocketseat. A aplicação objetiva ajudar ONGs a encontrar "hérois" que colaborem com os casos cadastrados pela ONG.`,
+        description:`Aplicação Full Stack, com front, back e mobile desenvolvida na semana Omnistack 11 realizada pela Rocketseat. A aplicação objetiva ajudar ONGs a encontrar "hérois" que colaborem com os casos cadastrados pela ONG. Na aplicação web, ocorre o registro da ONG e a mesma publica os seus casos. NA versão mobile, os casos de todas as ONGs jão listados ao público e o usuário pode entrar em contato com a ONG em questão.`,
         tecnologies:`NodeJS, ReactJS, React Native.`,
         repository:`https://github.com/CrisnaldoSantos/Omnistack-week11-rocketseat`,
         produtionLink:``,
@@ -86,7 +86,7 @@ module.exports = {
         produtionLink:`https://kinema-app.herokuapp.com/`,
       },
     ],
-    footerText: 'Fábrica de Código',
+    footerText: 'Crisnaldo Carvalho',
     homePage: {
       title: 'Página Inicial',
       img: 'https://images.unsplash.com/photo-1546464033-5b15cf1168f1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=500&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=800'
