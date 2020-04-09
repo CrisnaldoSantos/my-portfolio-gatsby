@@ -19,6 +19,7 @@ export default ({ data }) =>
       <About/>
       <Jobs/>
       <Projects/>
+      <Skills/>
       <Contact/>
       <Footer/>
     </Container>

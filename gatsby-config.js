@@ -86,6 +86,19 @@ module.exports = {
         produtionLink:`https://kinema-app.herokuapp.com/`,
       },
     ],
+    skills:
+    [
+      {name: 'NodeJS', progress: 90},
+      {name: 'ReactJS', progress: 95},
+      {name: 'React Native', progress: 70},
+      {name: 'Html', progress: 100},
+      {name: 'CSS', progress: 90},
+      {name: 'JavaScript', progress: 100},
+      {name: 'Bootstrap', progress: 95},
+      {name: 'Java EE', progress: 85},
+      {name: 'Docker', progress: 70},
+      {name: '.Net Core', progress: 50},
+    ],
     footerText: 'Crisnaldo Carvalho',
     homePage: {
       title: 'Página Inicial',
