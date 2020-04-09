@@ -91,6 +91,8 @@ module.exports = {
       {name: 'NodeJS', progress: 90},
       {name: 'ReactJS', progress: 95},
       {name: 'React Native', progress: 70},
+      {name: 'GatsbyJS', progress: 90},
+      {name: 'NextJS', progress: 88},
       {name: 'Html', progress: 100},
       {name: 'CSS', progress: 90},
       {name: 'JavaScript', progress: 100},
