@@ -51,8 +51,16 @@ module.exports = {
     ],
     projects:[
       {
+        title:`My Weather`,
+        description:`<p>Front-end contruído em ReactJS que informa dados climáticos a partir da geolocalização do usuário. Os dados são consumidos da API OpenWeather.</p>
+        São detalhados o nome da cidade, clima geral, temperatura, sensação térmica, temperatura máxima, temperatura mínima, pressão e umidade. <a target="_blank "href="https://meuclima.netlify.app/">https://meuclima.netlify.app/</a> `,
+        tecnologies:`ReactJS.`,
+        repository:`https://github.com/CrisnaldoSantos/my-weather`,
+        produtionLink:``,
+      },
+      {
         title:`Monitoramento Covid 19`,
-        description:`Front-end desenvolvido com React e NextJS, apresentando dados globais e por países do covid 19, a aplicação também apresenta as recomendações do ministério da saúse. A aplicação foi hospedada no Heroku e pode ser acessada pela url : <a target="_blank "href="https://monitoramento-covid19.herokuapp.com/">https://monitoramento-covid19.herokuapp.com/</a>`,
+        description:`Front-end desenvolvido com React e NextJS, apresentando dados globais e por países do covid 19, a aplicação também apresenta as recomendações do ministério da saúse. <p> A aplicação foi hospedada no Heroku e pode ser acessada pela url : <a target="_blank "href="https://monitoramento-covid19.herokuapp.com/">https://monitoramento-covid19.herokuapp.com/</a> </p>`,
         tecnologies:`NextJS.`,
         repository:`https://github.com/CrisnaldoSantos/monitoramento-covid-19`,
         produtionLink:``,
@@ -85,6 +93,13 @@ module.exports = {
         repository:`https://github.com/CrisnaldoSantos/Omnistack-week10-rocketseat`,
         produtionLink:`https://kinema-app.herokuapp.com/`,
       },
+      {
+        title:`Tindev`,
+        description:`Aplicação FullStack desenvolvida durante a semana OmniStack 8,provê um Tinder para desenvolvedores, onde o registro é feito através do usuário do Github, é possível dar likes e deslikes nos desenvolvedores registrados, e em caso de match ambos os desenvolvedores são notificados em tempo real!`,
+        tecnologies:`NodeJS, ReactJS, ReactNative, MongoDB.`,
+        repository:`https://github.com/CrisnaldoSantos/Omnistack-week08-rocketseat`,
+        produtionLink:``,
+      },
     ],
     skills:
     [
@@ -98,7 +113,7 @@ module.exports = {
       {name: 'JavaScript', progress: 100},
       {name: 'Bootstrap', progress: 95},
       {name: 'Java EE', progress: 85},
-      {name: 'Docker', progress: 70},
+      {name: 'Docker', progress: 75},
       {name: '.Net Core', progress: 50},
     ],
     footerText: 'Crisnaldo Carvalho',

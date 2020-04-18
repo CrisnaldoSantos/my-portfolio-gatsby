@@ -22,7 +22,7 @@ const About = () => {
     return (
         <Section id="sobre" className="bg-gray-100" title="Sobre Mim">
             <p className="text-center">
-                <img src={data.site.siteMetadata.aboutMe.photoUrl}
+                <img src={data.site.siteMetadata.aboutMe.photoUrl} style={{width:'220px'}}
                 className="rounded-full border-8 border-white shadow-xl inline-block my-5"
                 alt={data.site.siteMetadata.presentation.name} title={data.site.siteMetadata.presentation.name}/>
             </p>
