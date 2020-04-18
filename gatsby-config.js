@@ -52,7 +52,7 @@ module.exports = {
     projects:[
       {
         title:`My Weather`,
-        description:`<p>Front-end contruído em ReactJS que informa dados climáticos a partir da geolocalização do usuário. Os dados são consumidos da API OpenWeather.</p>
+        description:`Front-end contruído em ReactJS que informa dados climáticos a partir da geolocalização do usuário. Os dados são consumidos da API OpenWeather.
         São detalhados o nome da cidade, clima geral, temperatura, sensação térmica, temperatura máxima, temperatura mínima, pressão e umidade. <a target="_blank "href="https://meuclima.netlify.app/">https://meuclima.netlify.app/</a> `,
         tecnologies:`ReactJS.`,
         repository:`https://github.com/CrisnaldoSantos/my-weather`,
@@ -60,7 +60,7 @@ module.exports = {
       },
       {
         title:`Monitoramento Covid 19`,
-        description:`Front-end desenvolvido com React e NextJS, apresentando dados globais e por países do covid 19, a aplicação também apresenta as recomendações do ministério da saúse. <p> A aplicação foi hospedada no Heroku e pode ser acessada pela url : <a target="_blank "href="https://monitoramento-covid19.herokuapp.com/">https://monitoramento-covid19.herokuapp.com/</a> </p>`,
+        description:`Front-end desenvolvido com React e NextJS, apresentando dados globais e por países do covid 19, a aplicação também apresenta as recomendações do ministério da saúse. A aplicação foi hospedada no Heroku e pode ser acessada pela url : <a target="_blank "href="https://monitoramento-covid19.herokuapp.com/">https://monitoramento-covid19.herokuapp.com/</a>`,
         tecnologies:`NextJS.`,
         repository:`https://github.com/CrisnaldoSantos/monitoramento-covid-19`,
         produtionLink:``,
