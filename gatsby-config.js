@@ -34,7 +34,7 @@ module.exports = {
     },
     jobs:[
       {
-        date: '10/2020 - 01/2021',
+        date: '01/2021 - atual',
         company: 'Ioasys',
         role: 'Desenvolvedor Front-end',
         description: `Desenvolvimento de diversas aplicações com Reactjs, sendo estas, com CRA, Nextjs e Gatsby
