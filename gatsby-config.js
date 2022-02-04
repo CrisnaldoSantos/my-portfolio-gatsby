@@ -34,12 +34,26 @@ module.exports = {
     },
     jobs:[
       {
+        date: '10/2020 - 01/2021',
+        company: 'Ioasys',
+        role: 'Desenvolvedor Front-end',
+        description: `Desenvolvimento de diversas aplicações com Reactjs, sendo estas, com CRA, Nextjs e Gatsby
+        <strong>Tecnologias: </strong>ReactJs,ContextAPI, ReduxToolkit, StyledComponents, Typescrip, Gatsby, NextJs`
+      },
+      {
+        date: '10/2020 - 01/2021',
+        company: 'GetInfo',
+        role: 'Desenvolvedor Front-end',
+        description: `Desenvolvimento de um painel em ReactJS administrativo para um banco digital.
+        <strong>Tecnologias: </strong>ReactJs, Redux, StyledComponents`
+      },
+      {
         date: '01/2020 - atual',
         company: 'Instituto de Pesquisas em Tecnologia e Inovação - IPTI',
         role: 'Desenvolvedor',
         description: `Atuo na criação de módulos para software TAG desenvolvendo
         novas features e correções de bugs.<br>
-        <strong>Tecnologias: </strong>HTML, CSS, JavaScript, NodeJS, ReactJS, MongoDB.`
+        <strong>Tecnologias: </strong>HTML, CSS, JavaScript, NodeJS, ReactJS, MongoDB, NestJs.`
       },
       {
         date: '05/2019 - 12/2019',
@@ -114,7 +128,7 @@ module.exports = {
       {name: 'Bootstrap', progress: 95},
       {name: 'Java EE', progress: 85},
       {name: 'Docker', progress: 75},
-      {name: '.Net Core', progress: 50},
+      {name: 'NestJS', progress: 90},
     ],
     footerText: 'Crisnaldo Carvalho',
     homePage: {
