@@ -34,7 +34,7 @@ module.exports = {
     },
     jobs:[
       {
-        date: '04/20222 - Atual',
+        date: '04/2022 - Atual',
         company: 'Contabilizei',
         role: 'Desenvolvedor Sênior',
         description: `Desenvolvimento de produtos internos atuando com prioridade no front-end alocado no squad de CRM,
