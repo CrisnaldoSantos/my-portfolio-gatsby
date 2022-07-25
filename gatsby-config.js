@@ -34,7 +34,15 @@ module.exports = {
     },
     jobs:[
       {
-        date: '01/2021 - atual',
+        date: '04/20222 - Atual',
+        company: 'Contabilizei',
+        role: 'Desenvolvedor Sênior',
+        description: `Desenvolvimento de produtos internos atuando com prioridade no front-end alocado no squad de CRM,
+        utilizando ReactJS aplicado a Twilio, manutenção em sistemas com VueJS, aplicação de BFF, Google CLoud Computing, entre outras atribuições.
+        <strong>Tecnologias: </strong>ReactJs, VueJS, Twilio, NodeJS, Typescript`
+      },
+      {
+        date: '01/2021 - 04/2022',
         company: 'Ioasys',
         role: 'Desenvolvedor Front-end',
         description: `Desenvolvimento de diversas aplicações com Reactjs, sendo estas, com CRA, Nextjs e Gatsby
