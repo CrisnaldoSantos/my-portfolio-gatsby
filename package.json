@@ -21,7 +21,7 @@
     "@fortawesome/react-fontawesome": "^0.1.9",
     "@material/react-linear-progress": "^0.15.0",
     "bootstrap": "^4.4.1",
-    "gatsby": "^2.20.6",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-advanced-sitemap": "^1.5.2",
     "gatsby-plugin-manifest": "^2.3.2",
     "gatsby-plugin-react-helmet": "^3.2.1",
